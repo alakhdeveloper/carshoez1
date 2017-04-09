@@ -1,1 +1,1 @@
-this is a git setup on linux
+this is a git setup on linux, by alakh
